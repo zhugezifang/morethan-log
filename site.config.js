@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `诸葛子房的博客`,
       href: "https://github.com/zhugezifang/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "诸葛子房的博客",
+    description: "欢迎来到诸葛子房的博客",
   },
 
   // CONFIG configration (required)
