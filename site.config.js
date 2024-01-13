@@ -8,7 +8,6 @@ const CONFIG = {
     email: "xiaoqiu2017wy@163.com",
     linkedin: "zhugezifang",
     github: "zhugezifang",
-    微信："zhugezifang001",
     instagram: "",
   },
   projects: [
