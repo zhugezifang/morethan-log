@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `诸葛子房的博客`,
-      href: "https://github.com/zhugezifang/morethan-log",
+      name: `微信公众号`,
+      href: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
     },
   ],
   // blog setting (required)
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://zgzf.online/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
