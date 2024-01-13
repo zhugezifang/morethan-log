@@ -6,8 +6,9 @@ const CONFIG = {
     role: "前京东、BAT程序员",
     bio: "I develop everything using node.",
     email: "xiaoqiu2017wy@163.com",
-    linkedin: "zhugezifang",
+    linkedin: "",
     github: "zhugezifang",
+    gzh: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
     instagram: "",
   },
   projects: [
