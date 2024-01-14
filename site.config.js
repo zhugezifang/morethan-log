@@ -13,8 +13,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `微信公众号`,
+      href: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
     },
   ],
   // blog setting (required)
