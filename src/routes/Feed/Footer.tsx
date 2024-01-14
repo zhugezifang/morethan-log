@@ -20,6 +20,13 @@ const Footer: React.FC<Props> = ({ className }) => {
       >
         © {CONFIG.profile.name} {from === y || !from ? y : `${from} - ${y}`}
       </a>
+      <a
+        href={`https://github.com/${CONFIG.profile.github}`}
+        target="_blank"
+        rel="noreferrer"
+      >
+      测试链接
+      </a>
     </StyledWrapper>
   )
 }
