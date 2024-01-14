@@ -20,7 +20,6 @@ const ContactCard: React.FC = () => {
             rel="noreferrer"
             target="_blank"
           >
-            <AiOutlineGithub className="icon" />
             <div className="name">微信公众号</div>
           </a>
         )}
