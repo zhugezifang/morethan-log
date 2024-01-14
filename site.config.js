@@ -20,7 +20,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "诸葛子房的博客",
-    description: "欢迎来到诸葛子房的博客",
+    description: "用户画像、大数据",
   },
 
   // CONFIG configration (required)
