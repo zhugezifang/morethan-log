@@ -11,12 +11,12 @@ const CONFIG = {
     gzh: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
     instagram: "",
   },
-  projects: [
-    {
-      name: `微信公众号`,
-      href: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
-    },
-  ],
+  //projects: [
+  //  {
+  //    name: `微信公众号`,
+  //    href: "https://mp.weixin.qq.com/s/RB9OKzftBbpl5FewTqK2Dg",
+  //  },
+  // ],
   // blog setting (required)
   blog: {
     title: "诸葛子房的博客",
